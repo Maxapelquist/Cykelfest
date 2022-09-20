@@ -3,7 +3,6 @@
      Title:  Cykelfest
      Author: Max Apelquist
      Date:   19 Sep 2022
-     Comments: In case of problems, 0703746077
     ==========================================
 """
 import docx
